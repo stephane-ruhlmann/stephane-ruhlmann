@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Stephane!
 
-I am a full-stack free-lance developer, recruiter, mentor and trainer working mainly around the [TypeScript](https://www.typescriptlang.org/)/[React](https://reactjs.org/)/[GraphQL](https://graphql.org/)/[Node](https://nodejs.org/) ecosystem.
+I am a full-stack freelance developer, recruiter, mentor and trainer working mainly around the [TypeScript](https://www.typescriptlang.org/)/[React](https://reactjs.org/)/[GraphQL](https://graphql.org/)/[Node](https://nodejs.org/) ecosystem.
 
 - I'm currently working with [Entourage](https://www.entourage.social/) helping them develop their awesome [LinkedOut](https://www.linkedout.fr/) initiative helping people out of the professional networking loop find a job. (Code is public and available [here](https://github.com/ReseauEntourage/entourage-job) #React #Node #NextJS
 - I train people on GraphQL, a technology I have been using and advocating for since 2016 (I organized the [first european GraphQL Meetup](https://www.meetup.com/fr-FR/GraphQL-Paris/events/231911562/))
@@ -10,11 +10,11 @@ I am a full-stack free-lance developer, recruiter, mentor and trainer working ma
 
 ### 🗣 I am currently available to train and coach teams around React, GraphQL, Typescript and Node in Paris _intra-muros_ or _remotely_
 
-### I you know of an opportunity that might interest me, [please tell me about it :rocket:](https://airtable.com/shrtnwgu8FZlpheeh)
+### If you know of an opportunity that might interest me, [please tell me about it](https://airtable.com/shrtnwgu8FZlpheeh) :rocket:
 
 
 #### Want to know more about me? 💬
-- Check out [my website :globe_with_meridians:](https://stephane-ruhlmann.com)
+- Check out [my website](https://stephane-ruhlmann.com) :globe_with_meridians:
 - [LinkedIn](https://github.com/stephane-ruhlmann)
 - [Resume](https://stephane-ruhlmann.com/resume.pdf) 📄
 
