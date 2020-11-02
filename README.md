@@ -8,11 +8,6 @@ I am a full-stack freelance developer, recruiter, mentor and trainer working mai
 - I speak french, english and spanish
 
 
-### 🗣 I am currently available to train and coach teams around React, GraphQL, Typescript and Node in Paris _intra-muros_ or _remotely_
-
-### If you know of an opportunity that might interest me, [please tell me about it](https://airtable.com/shrtnwgu8FZlpheeh) :rocket:
-
-
 #### Want to know more about me? 💬
 - Check out [my website](https://stephane-ruhlmann.com) :globe_with_meridians:
 - [LinkedIn](https://github.com/stephane-ruhlmann)
